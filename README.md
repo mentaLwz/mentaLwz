@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## 自述   
+道士，程序员，教育家，音乐家(还没开始)，知识分子，革命者
 <!--
 **mentaLwz/mentaLwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
