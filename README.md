@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats-1.mentaLwz.vercel.app/api?username=mentaLwz&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+[![Mental's github stats](https://github-readme-stats.vercel.app/api?username=mentaLwz)](https://github.com/mentaLwz/github-readme-stats)
 
 ## 自述   
 道士，程序员，教育家，音乐家(还没开始)，知识分子，革命者
