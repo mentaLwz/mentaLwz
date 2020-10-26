@@ -2,7 +2,7 @@
 [![Mental's github stats](https://github-readme-stats.vercel.app/api?username=mentaLwz)](https://github.com/mentaLwz/github-readme-stats)
 
 ## 自述   
-道士，程序员，教育家，音乐家(还没开始)，知识分子，革命者
+道士，程序员，教育家，音乐家(还没开始)，知识分子，农民
 <!--
 **mentaLwz/mentaLwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
