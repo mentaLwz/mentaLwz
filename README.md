@@ -3,6 +3,7 @@
 
 ## 自述   
 程序员，音乐家(还没开始)
+严肃的Blog： mentaLwz.github.io
 <!--
 **mentaLwz/mentaLwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
